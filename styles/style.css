@@ -49,11 +49,9 @@ input::placeholder {
   border: 1px solid #f4f4f4;
 }
 
-.output_component {
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.output-container img{
+  display: block;
+  margin: auto;
 }
 
 .city_name,
